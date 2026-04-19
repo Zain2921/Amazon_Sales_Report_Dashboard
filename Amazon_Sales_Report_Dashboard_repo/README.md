@@ -106,5 +106,6 @@ This project is for internal/educational use. Please ensure compliance with Amaz
 ---
 
 ## 📬 Contact
+zainmughal2921@gmail.com
 
 For questions or feedback, please open an [issue](https://github.com/your-username/Amazon_Sales_Report_Dashboard/issues).
